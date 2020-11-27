@@ -1,0 +1,40 @@
+{
+	"Battle Settings": {
+	
+		"Total Defense Modifier": 2,
+		"Combat Width": 20
+	},
+
+	"Attacker": {
+		
+		"Morale": 100,
+
+		"Lines": [
+			[
+				"Cavalry:Knights:5000"
+			
+			]
+		]
+
+	},
+
+	"Defender": {
+
+		"Morale": 100,
+
+		"Lines": [
+			[
+				"Infantry:Medieval Irregular:2750",
+				"Infantry:Pikemen:1000",
+				"Infantry:Medieval Irregular:2750"
+			],
+			[
+				"Infantry:Crossbowmen:250",
+				"Infantry:Pikemen:1000",
+				"Infantry:Crossbowmen:250"
+			]
+		]
+
+	}
+
+}

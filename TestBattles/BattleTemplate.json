@@ -1,0 +1,52 @@
+{
+
+	"Battle Settings": {
+
+		"Total Defense Modifier": 2,
+		"Total Attack Modifier": 0,
+		"Combat Width": 20
+
+	},
+
+	"Attacker": {
+		
+		"Morale": 100,
+
+		"Lines": [
+			[
+				"Cavalry:Hussars:5000"
+			
+			]
+		]
+
+	},
+
+	"Defender": {
+		
+		"Morale": 100,
+
+		"Lines": [
+			[
+				"Infantry:Line Infantry:5000"
+			]
+		]
+		
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

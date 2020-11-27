@@ -1,0 +1,22 @@
+"TestBattles/BattleTest1" Results:
+--------
+Attacking Army:
+Morale: 64
+Line Infantry: 17901.0
+Hussars: 5875.0
+Scout Cavalry: 3000.0
+
+Defending Army:
+Morale: 22
+Warriors: 3581.0
+
+"TestBattles/BattleTemplate" Results:
+--------
+Attacking Army:
+Morale: 54
+Hussars: 3443.0
+
+Defending Army:
+Morale: 39
+Line Infantry: 2997.0
+

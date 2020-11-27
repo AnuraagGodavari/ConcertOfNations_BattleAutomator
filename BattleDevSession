@@ -1,0 +1,85 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1376" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="D:\Programs\Python\SimpleBattleAutomation\FileHandling.py" backupFilePath="" originalFileLastModifTimestamp="2017790208" originalFileLastModifTimestampHigh="30808702" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="101" mapWrapIndentMode="-1" mapIsWrap="no">
+                <Fold line="5" />
+                <Fold line="17" />
+                <Fold line="25" />
+                <Fold line="34" />
+                <Fold line="72" />
+                <Fold line="101" />
+                <Fold line="112" />
+            </File>
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1376" startPos="1670" endPos="1670" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="D:\Programs\Python\SimpleBattleAutomation\BattleRunner.py" backupFilePath="" originalFileLastModifTimestamp="-987987712" originalFileLastModifTimestampHigh="30850721" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="-285211648" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1376" startPos="11139" endPos="11139" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="D:\Programs\Python\SimpleBattleAutomation\LandCombat.py" backupFilePath="" originalFileLastModifTimestamp="-1452158976" originalFileLastModifTimestampHigh="30851205" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1667590243" mapWrapIndentMode="-1" mapIsWrap="no">
+                <Fold line="6" />
+                <Fold line="8" />
+                <Fold line="45" />
+                <Fold line="48" />
+                <Fold line="59" />
+                <Fold line="75" />
+                <Fold line="96" />
+                <Fold line="116" />
+                <Fold line="142" />
+                <Fold line="161" />
+                <Fold line="162" />
+                <Fold line="174" />
+                <Fold line="220" />
+                <Fold line="223" />
+                <Fold line="224" />
+                <Fold line="227" />
+                <Fold line="228" />
+                <Fold line="231" />
+                <Fold line="232" />
+                <Fold line="237" />
+                <Fold line="252" />
+            </File>
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1376" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="Normal Text" encoding="-1" userReadOnly="no" filename="D:\Programs\Python\SimpleBattleAutomation\Orders Template results.txt" backupFilePath="" originalFileLastModifTimestamp="-912158976" originalFileLastModifTimestampHigh="30851205" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1376" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="Normal Text" encoding="-1" userReadOnly="no" filename="D:\Programs\Python\SimpleBattleAutomation\Orders Template.txt" backupFilePath="" originalFileLastModifTimestamp="-839625728" originalFileLastModifTimestampHigh="30845167" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="64955913" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1376" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="D:\Programs\Python\SimpleBattleAutomation\Util.py" backupFilePath="" originalFileLastModifTimestamp="1150285056" originalFileLastModifTimestampHigh="30819939" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no">
+                <Fold line="4" />
+                <Fold line="5" />
+                <Fold line="9" />
+                <Fold line="14" />
+                <Fold line="19" />
+                <Fold line="23" />
+                <Fold line="24" />
+                <Fold line="29" />
+                <Fold line="36" />
+                <Fold line="39" />
+                <Fold line="42" />
+                <Fold line="43" />
+                <Fold line="48" />
+                <Fold line="51" />
+                <Fold line="58" />
+                <Fold line="68" />
+                <Fold line="69" />
+                <Fold line="75" />
+                <Fold line="117" />
+                <Fold line="125" />
+                <Fold line="133" />
+                <Fold line="141" />
+                <Fold line="153" />
+                <Fold line="162" />
+                <Fold line="163" />
+                <Fold line="170" />
+                <Fold line="197" />
+                <Fold line="210" />
+                <Fold line="239" />
+                <Fold line="250" />
+                <Fold line="269" />
+                <Fold line="279" />
+                <Fold line="291" />
+                <Fold line="300" />
+                <Fold line="308" />
+                <Fold line="314" />
+                <Fold line="320" />
+                <Fold line="335" />
+            </File>
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1376" startPos="304" endPos="304" selMode="0" offset="0" wrapCount="1" lang="JSON" encoding="-1" userReadOnly="no" filename="D:\Programs\Python\SimpleBattleAutomation\TestBattles\BattleTest1.json" backupFilePath="" originalFileLastModifTimestamp="-1012158976" originalFileLastModifTimestampHigh="30851205" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1143209984" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1376" startPos="324" endPos="324" selMode="0" offset="0" wrapCount="1" lang="JSON" encoding="-1" userReadOnly="no" filename="D:\Programs\Python\SimpleBattleAutomation\TestBattles\BattleTemplate.json" backupFilePath="" originalFileLastModifTimestamp="-1543154944" originalFileLastModifTimestampHigh="30850563" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1143209984" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="21" xOffset="0" scrollWidth="1376" startPos="671" endPos="671" selMode="0" offset="0" wrapCount="1" lang="JSON" encoding="-1" userReadOnly="no" filename="D:\Programs\Python\SimpleBattleAutomation\Units.json" backupFilePath="" originalFileLastModifTimestamp="202808320" originalFileLastModifTimestampHigh="30851205" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

@@ -1,0 +1,2 @@
+Battle Examples/BattleTest1
+Battle Examples/BattleTemplate

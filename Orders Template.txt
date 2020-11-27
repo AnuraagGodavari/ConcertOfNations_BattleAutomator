@@ -1,0 +1,2 @@
+TestBattles/BattleTest1
+TestBattles/BattleTemplate

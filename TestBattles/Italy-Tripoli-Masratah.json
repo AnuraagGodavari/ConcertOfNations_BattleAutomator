@@ -1,0 +1,50 @@
+{
+
+	"Battle Settings": {
+	
+		"Total Defense Modifier": 0,
+		"Total Attack Modifier": 0,
+		"Combat Width": 0
+	},
+
+	"Attacker": {
+	"Morale": 100,
+	
+	"Lines": [
+			[
+				"Cavalry:Lancers:1000",
+				"Infantry:Line Infantry:11000",
+				"Cavalry:Lancers:2000"
+			],
+			
+			[
+				"Infantry:Light Infantry:2000",
+				"Artillery:Regular Cannons:13",
+				"Infantry:Line Infantry:1000",
+				"Artillery:Regular Cannons:13",
+				"Infantry:Line Infantry:1000",
+				"Artillery:Heavy Cannons:4",
+				"Infantry:Line Infantry:1000",
+				"Artillery:Regular Cannons:13",
+				"Infantry:Line Infantry:1000",
+				"Artillery:Regular Cannons:13",
+				"Infantry:Light Infantry:3000"
+			]
+		]
+	}, 
+
+	"Defender": {
+		
+		"Morale": 100,
+
+		"Lines": [
+			[
+				"Infantry:Warriors:4000",
+				"Infantry:Light Infantry:4000"
+			
+			]
+		]
+		
+	}
+
+}

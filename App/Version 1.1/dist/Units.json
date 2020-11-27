@@ -1,0 +1,75 @@
+{
+
+	"Infantry": {
+	
+		"Light Infantry": {
+		
+			"fire": 1,
+			"cover": 1,
+			"charge": 1,
+			"shock": 1,
+			"range": 1
+			
+		
+		},
+		
+		"SS Units": {
+		
+			"fire": 2,
+			"cover": 2,
+			"charge": 3,
+			"shock": 1,
+			"range": 2
+			
+		
+		}
+			
+	},
+
+
+	"Cavalry": {
+	
+		"Heavy Tanks": {
+		
+			"fire": 2,
+			"cover": 1,
+			"charge": 4,
+			"shock": 3,
+			"range": 2
+			
+		
+		},
+		
+		"Light Tanks": {
+		
+			"fire": 2,
+			"cover": 1,
+			"charge": 3,
+			"shock": 2,
+			"range": 2
+		
+		}
+
+	},
+
+	"Artillery": {
+	
+		"Machine Guns": {
+		
+			"force": 3,
+			"firingSpeed": 1.5,
+			"range": 2
+		
+		},
+		
+		"Modern Artillery": {
+		
+			"force": 4,
+			"firingSpeed": 1,
+			"range": 4
+		
+		}
+
+	}
+
+}

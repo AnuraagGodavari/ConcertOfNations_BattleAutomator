@@ -1,0 +1,167 @@
+{
+
+	"Infantry": {
+	
+		"Line Infantry": {
+		
+			"fire": 1,
+			"cover": 1,
+			"charge": 3,
+			"shock": 3,
+			"range": 2
+		
+		},
+		
+		"Mounted Infantry": {
+		
+			"fire": 1,
+			"cover": 1,
+			"charge": 3,
+			"shock": 2,
+			"range": 2
+			
+		},
+		
+		"Grenadiers": {
+		
+			"fire": 2,
+			"cover": 1,
+			"charge": 4,
+			"shock": 3,
+			"range": 2
+		
+		},
+		
+		"Light Infantry": {
+		
+			"fire": 1,
+			"cover": 1,
+			"charge": 2,
+			"shock": 2,
+			"range": 2
+			
+		},
+		
+		"Warriors": {
+		
+			"fire": 1,
+			"cover": 1,
+			"charge": 1,
+			"shock": 1,
+			"range": 1
+			
+		},
+		
+		"Bowmen": {
+		
+			"fire": 2,
+			"cover": 2,
+			"charge": 1,
+			"shock": 1,
+			"range": 3
+			
+		}
+
+	},
+
+	"Cavalry": {
+	
+		"Cuirassiers": {
+		
+			"fire": 0,
+			"cover": 4,
+			"charge": 6,
+			"shock": 4,
+			"range": 1
+			
+		},
+		
+		"Dragoons": {
+		
+			"fire": 0,
+			"cover": 2,
+			"charge": 5,
+			"shock": 2,
+			"range": 2
+			
+		},
+		
+		"Gunner Cavalry": {
+		
+			"fire": 2,
+			"cover": 2,
+			"charge": 3,
+			"shock": 1,
+			"range": 2
+			
+		},
+		
+		"Hussars": {
+		
+			"fire": 0,
+			"cover": 2,
+			"charge": 4,
+			"shock": 2,
+			"range": 1
+			
+		},
+		
+		"Lancers": {
+		
+			"fire": 0,
+			"cover": 2,
+			"charge": 3,
+			"shock": 2,
+			"range": 1
+		
+		},
+		
+		"Scout Cavalry": {
+		
+			"fire": 0,
+			"cover": 1,
+			"charge": 2,
+			"shock": 2,
+			"range": 1
+		
+		}
+
+	},
+
+	"Artillery": {
+		
+		"Siege Cannons": {
+		
+			"force": 7,
+			"firingSpeed": 0.1,
+			"range": 3
+		
+		},
+		
+		"Heavy Cannons": {
+		
+			"force": 5,
+			"firingSpeed": 0.3,
+			"range": 3
+		
+		},
+		
+		"Regular Cannons": {
+		
+			"force": 3,
+			"firingSpeed": 1,
+			"range": 3
+		
+		},
+		
+		"Primitive Cannons": {
+		
+			"force": 1,
+			"firingSpeed": 1,
+			"range": 3
+		
+		}
+
+	}
+
+}

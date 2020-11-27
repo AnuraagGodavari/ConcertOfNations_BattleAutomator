@@ -1,0 +1,46 @@
+{
+
+	"Battle Settings": {
+	
+		"Total Defense Modifier": 2,
+		"Combat Width": 20
+	},
+
+	"Attacker": {
+		
+		"Morale": 100,
+
+		"Lines": [
+			[
+				"Cavalry:Knights:1000",
+				"Infantry:Pikemen:1000",
+				"Cavalry:Knights:1000"
+			
+			],
+			
+			[
+				"Infantry:Bowmen:500"
+			]
+		]
+
+	},
+
+	"Defender": {
+		
+		"Morale": 100,
+
+		"Lines": [
+			[
+				"Cavalry:Knights:500",
+				"Infantry:Pikemen:1000",
+				"Cavalry:Knights:500"
+			],
+			
+			[
+				"Infantry:Bowmen:1000"
+			]
+		]
+		
+	}
+
+}
