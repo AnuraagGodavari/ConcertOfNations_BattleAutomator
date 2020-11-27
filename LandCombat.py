@@ -160,7 +160,7 @@ class Army:
                 enemy.chooseTarget(division, sightLineNum, lineNum, enemy, attackModifier, defenseModifier)
     
 class Division:
-    def __init__(self, name, size, morale, range, fire, cover, charge, shock, status = "Fighting"):
+    def __init__(self, name, size, morale, range, fire, cover, charge, shock, isMelee, status = "Fighting"):
         self.size = size
         self.name = name
         self.morale = morale
@@ -169,6 +169,7 @@ class Division:
         self.cover = cover
         self.charge = charge
         self.shock = shock
+        self.isMelee = isMelee
         self.status = status
     
     #Attacks another division, dealing and taking damage
@@ -179,7 +180,7 @@ class Division:
         enemyRoll = random.randint(1 + defenseModifier, 5)
         
         #If it is a ranged attack:
-        if (distance > 1):
+        if ((distance > 1) or (not self.isMelee)):
             friendlyRoll = max(1, friendlyRoll + max(0, self.fire - enemy.cover) - defenseModifier + attackModifier)
             
             damageDone = (enemy.size * (friendlyRoll/100))
@@ -222,16 +223,16 @@ class Division:
         return str(self.size) + " " + str(self.name) + ": " + self.status
         
 class Infantry(Division):
-    def __init__(self, name, size, morale, range, fire, cover, charge, shock, status = "Fighting"):
-        Division.__init__(self, name, size, morale, range, fire, cover, charge, shock, status)
+    def __init__(self, name, size, morale, range, fire, cover, charge, shock, isMelee, status = "Fighting"):
+        Division.__init__(self, name, size, morale, range, fire, cover, charge, shock, isMelee, status)
         
 class Cavalry(Division):
     def __init__(self, name, size, morale, range, fire, cover, charge, shock, status = "Fighting"):
-        Division.__init__(self, name, size, morale, range, fire, cover, charge, shock, status)
+        Division.__init__(self, name, size, morale, range, fire, cover, charge, shock, True, status)
         
 class Artillery(Division):
     def __init__(self, name, size, morale, range, firingSpeed, force, status = "Fighting"):
-        Division.__init__(self, name, size, morale, range, 0, 0, 0, 0, status)
+        Division.__init__(self, name, size, morale, range, 0, 0, 0, 0, False, status)
         self.firingSpeed = firingSpeed
         self.force = force
         

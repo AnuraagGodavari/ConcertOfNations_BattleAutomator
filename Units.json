@@ -3,7 +3,8 @@
 	"Infantry": {
 	
 		"Line Infantry": {
-		
+			
+			"isMelee": false,
 			"fire": 1,
 			"cover": 1,
 			"charge": 3,
@@ -13,7 +14,8 @@
 		},
 		
 		"Mounted Infantry": {
-		
+			
+			"isMelee": false,
 			"fire": 1,
 			"cover": 1,
 			"charge": 3,
@@ -23,7 +25,8 @@
 		},
 		
 		"Grenadiers": {
-		
+			
+			"isMelee": false,
 			"fire": 2,
 			"cover": 1,
 			"charge": 4,
@@ -34,16 +37,18 @@
 		
 		"Light Infantry": {
 		
-			"fire": 1,
-			"cover": 1,
-			"charge": 2,
-			"shock": 2,
+			"isMelee": false,
+			"fire": 2,
+			"cover": 2,
+			"charge": 1,
+			"shock": 1,
 			"range": 2
 			
 		},
 		
 		"Warriors": {
 		
+			"isMelee": true,
 			"fire": 1,
 			"cover": 1,
 			"charge": 1,
@@ -54,6 +59,7 @@
 		
 		"Bowmen": {
 		
+			"isMelee": false,
 			"fire": 2,
 			"cover": 2,
 			"charge": 1,

@@ -1,29 +1,28 @@
 "TestBattles/Italy-Tripoli-Masratah" TEST Results:
 --------
 Attacking Army Average Results:
-Morale: 76.46 / 100
-Lancers: 1811.13 / 3000.0
-Line Infantry: 9738.58 / 15000.0
-Light Infantry: 1148.72 / 5000.0
+Morale: 93.42 / 100
+Lancers: 1082.76 / 3000.0
+Line Infantry: 14812.84 / 15000.0
+Light Infantry: 5000.0 / 5000.0
 Regular Cannons: 40.0 / 40.0
 Heavy Cannons: 4.0 / 4.0
 
 Defending Army Average Results:
-Morale: 12.26 / 100
-Light Infantry: 541.91 / 4000.0
-Warriors: 162.23 / 4000.0
+Morale: 12.58 / 100
+Light Infantry: 668.13 / 14000.0
 
 "TestBattles/Italy-Tunis-Bizerte" TEST Results:
 --------
 Attacking Army Average Results:
-Morale: 89.23 / 100
-Lancers: 3392.48 / 4000.0
-Line Infantry: 9248.25 / 11000.0
+Morale: 95.35 / 100
+Lancers: 3520.29 / 4000.0
+Line Infantry: 11000.0 / 11000.0
 Regular Cannons: 50.0 / 50.0
+Light Infantry: 6000.0 / 6000.0
 Heavy Cannons: 10.0 / 10.0
-Light Infantry: 689.51 / 6000.0
 
 Defending Army Average Results:
-Morale: 0.38 / 100
-Light Infantry: 11.53 / 2000.0
+Morale: 1.06 / 100
+Light Infantry: 29.16 / 2000.0
 

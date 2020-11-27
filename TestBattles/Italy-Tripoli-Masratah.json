@@ -39,9 +39,13 @@
 
 		"Lines": [
 			[
-				"Infantry:Warriors:4000",
-				"Infantry:Light Infantry:4000"
+				"Infantry:Warriors:14000"
+				
 			
+			],
+			
+			[
+				"Infantry:Light Infantry:14000"
 			]
 		]
 		

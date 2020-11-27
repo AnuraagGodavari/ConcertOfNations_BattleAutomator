@@ -1,2 +1,2 @@
-TestBattles/Italy-Tripoli-Masratah
-TestBattles/Italy-Tunis-Bizerte
+TEST:TestBattles/Italy-Tripoli-Masratah
+TEST:TestBattles/Italy-Tunis-Bizerte
